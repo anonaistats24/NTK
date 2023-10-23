@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# this script draws scatter plots showing decay rate of eigenvalues
+
 # In[1]:
 
 
